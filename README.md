@@ -1,2 +1,4 @@
 # AngularJS-Panier
-Rattrapage M1 Efrei
+#Rattrapage M1 Efrei
+
+Lancer index.html
